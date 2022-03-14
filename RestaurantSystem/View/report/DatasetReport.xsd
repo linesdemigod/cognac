@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatasetReport" targetNamespace="http://tempuri.org/DatasetReport.xsd" xmlns:mstns="http://tempuri.org/DatasetReport.xsd" xmlns="http://tempuri.org/DatasetReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="foodjointConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="foodjointConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RestaurantSystem.Properties.Settings.GlobalReference.Default.foodjointConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   category.cat_id, product.cat_id AS Expr1, product.pro_name, product.pro_price, product.pro_description, product.pro_quantity
+FROM         category INNER JOIN
+                         product ON category.cat_id = product.cat_id</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="pro_name" DataSetColumn="pro_name" />
+              <Mapping SourceColumn="pro_price" DataSetColumn="pro_price" />
+              <Mapping SourceColumn="pro_description" DataSetColumn="pro_description" />
+              <Mapping SourceColumn="pro_quantity" DataSetColumn="pro_quantity" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatasetReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DatasetReport" msprop:Generator_UserDSName="DatasetReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pro_name" msprop:Generator_ColumnVarNameInTable="columnpro_name" msprop:Generator_ColumnPropNameInRow="pro_name" msprop:Generator_ColumnPropNameInTable="pro_nameColumn" msprop:Generator_UserColumnName="pro_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_price" msprop:Generator_ColumnVarNameInTable="columnpro_price" msprop:Generator_ColumnPropNameInRow="pro_price" msprop:Generator_ColumnPropNameInTable="pro_priceColumn" msprop:Generator_UserColumnName="pro_price">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_description" msprop:Generator_ColumnVarNameInTable="columnpro_description" msprop:Generator_ColumnPropNameInRow="pro_description" msprop:Generator_ColumnPropNameInTable="pro_descriptionColumn" msprop:Generator_UserColumnName="pro_description">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_quantity" msprop:Generator_ColumnVarNameInTable="columnpro_quantity" msprop:Generator_ColumnPropNameInRow="pro_quantity" msprop:Generator_ColumnPropNameInTable="pro_quantityColumn" msprop:Generator_UserColumnName="pro_quantity" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

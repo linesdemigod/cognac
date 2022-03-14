@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetFinancialReport" targetNamespace="http://tempuri.org/DataSetFinancialReport.xsd" xmlns:mstns="http://tempuri.org/DataSetFinancialReport.xsd" xmlns="http://tempuri.org/DataSetFinancialReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="foodjointConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="foodjointConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RestaurantSystem.Properties.Settings.GlobalReference.Default.foodjointConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SalariesTableAdapter" GeneratorDataComponentClassName="SalariesTableAdapter" Name="Salaries" UserDataComponentName="SalariesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Salary
+FROM         expense
+WHERE     (exp_purpose = 'Salary')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Salary" DataSetColumn="Salary" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TaxTableAdapter" GeneratorDataComponentClassName="TaxTableAdapter" Name="Tax" UserDataComponentName="TaxTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Tax
+FROM         expense
+WHERE     (exp_purpose = 'Tax/Revenue')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Tax" DataSetColumn="Tax" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="GrandTableAdapter" GeneratorDataComponentClassName="GrandTableAdapter" Name="Grand" UserDataComponentName="GrandTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(ord_net_amount) AS Grand
+FROM         orders</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Grand" DataSetColumn="Grand" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ItemTableAdapter" GeneratorDataComponentClassName="ItemTableAdapter" Name="Item" UserDataComponentName="ItemTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Cost
+FROM         expense
+WHERE     (exp_purpose = 'Item Cost')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cost" DataSetColumn="Cost" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UtilityTableAdapter" GeneratorDataComponentClassName="UtilityTableAdapter" Name="Utility" UserDataComponentName="UtilityTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Utility
+FROM         expense
+WHERE     (exp_purpose = 'Utility Bills')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Utility" DataSetColumn="Utility" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="OtherTableAdapter" GeneratorDataComponentClassName="OtherTableAdapter" Name="Other" UserDataComponentName="OtherTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Other
+FROM         expense
+WHERE     (exp_purpose = 'Other')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Other" DataSetColumn="Other" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RentTableAdapter" GeneratorDataComponentClassName="RentTableAdapter" Name="Rent" UserDataComponentName="RentTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Rent
+FROM         expense
+WHERE     (exp_purpose = 'Rent')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Rent" DataSetColumn="Rent" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MiscellaneousTableAdapter" GeneratorDataComponentClassName="MiscellaneousTableAdapter" Name="Miscellaneous" UserDataComponentName="MiscellaneousTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Miscellaneous
+FROM         expense
+WHERE     (exp_purpose = 'Miscellaneous')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Miscellaneous" DataSetColumn="Miscellaneous" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MaintenanceTableAdapter" GeneratorDataComponentClassName="MaintenanceTableAdapter" Name="Maintenance" UserDataComponentName="MaintenanceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="foodjointConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   SUM(exp_amount) AS Maintenance
+FROM         expense
+WHERE     (exp_purpose = 'Maintenance/Repairs')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Maintenance" DataSetColumn="Maintenance" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetFinancialReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetFinancialReport" msprop:Generator_UserDSName="DataSetFinancialReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Salaries" msprop:Generator_TableClassName="SalariesDataTable" msprop:Generator_TableVarName="tableSalaries" msprop:Generator_TablePropName="Salaries" msprop:Generator_RowDeletingName="SalariesRowDeleting" msprop:Generator_RowChangingName="SalariesRowChanging" msprop:Generator_RowEvHandlerName="SalariesRowChangeEventHandler" msprop:Generator_RowDeletedName="SalariesRowDeleted" msprop:Generator_UserTableName="Salaries" msprop:Generator_RowChangedName="SalariesRowChanged" msprop:Generator_RowEvArgName="SalariesRowChangeEvent" msprop:Generator_RowClassName="SalariesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Salary" msprop:Generator_ColumnVarNameInTable="columnSalary" msprop:Generator_ColumnPropNameInRow="Salary" msprop:Generator_ColumnPropNameInTable="SalaryColumn" msprop:Generator_UserColumnName="Salary" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Tax" msprop:Generator_TableClassName="TaxDataTable" msprop:Generator_TableVarName="tableTax" msprop:Generator_TablePropName="Tax" msprop:Generator_RowDeletingName="TaxRowDeleting" msprop:Generator_RowChangingName="TaxRowChanging" msprop:Generator_RowEvHandlerName="TaxRowChangeEventHandler" msprop:Generator_RowDeletedName="TaxRowDeleted" msprop:Generator_UserTableName="Tax" msprop:Generator_RowChangedName="TaxRowChanged" msprop:Generator_RowEvArgName="TaxRowChangeEvent" msprop:Generator_RowClassName="TaxRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Tax" msprop:Generator_ColumnVarNameInTable="columnTax" msprop:Generator_ColumnPropNameInRow="Tax" msprop:Generator_ColumnPropNameInTable="TaxColumn" msprop:Generator_UserColumnName="Tax" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Grand" msprop:Generator_TableClassName="GrandDataTable" msprop:Generator_TableVarName="tableGrand" msprop:Generator_TablePropName="Grand" msprop:Generator_RowDeletingName="GrandRowDeleting" msprop:Generator_RowChangingName="GrandRowChanging" msprop:Generator_RowEvHandlerName="GrandRowChangeEventHandler" msprop:Generator_RowDeletedName="GrandRowDeleted" msprop:Generator_UserTableName="Grand" msprop:Generator_RowChangedName="GrandRowChanged" msprop:Generator_RowEvArgName="GrandRowChangeEvent" msprop:Generator_RowClassName="GrandRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Grand" msprop:Generator_ColumnVarNameInTable="columnGrand" msprop:Generator_ColumnPropNameInRow="Grand" msprop:Generator_ColumnPropNameInTable="GrandColumn" msprop:Generator_UserColumnName="Grand" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Item" msprop:Generator_TableClassName="ItemDataTable" msprop:Generator_TableVarName="tableItem" msprop:Generator_TablePropName="Item" msprop:Generator_RowDeletingName="ItemRowDeleting" msprop:Generator_RowChangingName="ItemRowChanging" msprop:Generator_RowEvHandlerName="ItemRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemRowDeleted" msprop:Generator_UserTableName="Item" msprop:Generator_RowChangedName="ItemRowChanged" msprop:Generator_RowEvArgName="ItemRowChangeEvent" msprop:Generator_RowClassName="ItemRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cost" msprop:Generator_ColumnVarNameInTable="columnCost" msprop:Generator_ColumnPropNameInRow="Cost" msprop:Generator_ColumnPropNameInTable="CostColumn" msprop:Generator_UserColumnName="Cost" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Utility" msprop:Generator_TableClassName="UtilityDataTable" msprop:Generator_TableVarName="tableUtility" msprop:Generator_TablePropName="Utility" msprop:Generator_RowDeletingName="UtilityRowDeleting" msprop:Generator_RowChangingName="UtilityRowChanging" msprop:Generator_RowEvHandlerName="UtilityRowChangeEventHandler" msprop:Generator_RowDeletedName="UtilityRowDeleted" msprop:Generator_UserTableName="Utility" msprop:Generator_RowChangedName="UtilityRowChanged" msprop:Generator_RowEvArgName="UtilityRowChangeEvent" msprop:Generator_RowClassName="UtilityRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Utility" msprop:Generator_ColumnVarNameInTable="columnUtility" msprop:Generator_ColumnPropNameInRow="Utility" msprop:Generator_ColumnPropNameInTable="UtilityColumn" msprop:Generator_UserColumnName="Utility" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Other" msprop:Generator_TableClassName="OtherDataTable" msprop:Generator_TableVarName="tableOther" msprop:Generator_TablePropName="Other" msprop:Generator_RowDeletingName="OtherRowDeleting" msprop:Generator_RowChangingName="OtherRowChanging" msprop:Generator_RowEvHandlerName="OtherRowChangeEventHandler" msprop:Generator_RowDeletedName="OtherRowDeleted" msprop:Generator_UserTableName="Other" msprop:Generator_RowChangedName="OtherRowChanged" msprop:Generator_RowEvArgName="OtherRowChangeEvent" msprop:Generator_RowClassName="OtherRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Other" msprop:Generator_ColumnVarNameInTable="columnOther" msprop:Generator_ColumnPropNameInRow="Other" msprop:Generator_ColumnPropNameInTable="OtherColumn" msprop:Generator_UserColumnName="Other" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rent" msprop:Generator_TableClassName="RentDataTable" msprop:Generator_TableVarName="tableRent" msprop:Generator_TablePropName="Rent" msprop:Generator_RowDeletingName="RentRowDeleting" msprop:Generator_RowChangingName="RentRowChanging" msprop:Generator_RowEvHandlerName="RentRowChangeEventHandler" msprop:Generator_RowDeletedName="RentRowDeleted" msprop:Generator_UserTableName="Rent" msprop:Generator_RowChangedName="RentRowChanged" msprop:Generator_RowEvArgName="RentRowChangeEvent" msprop:Generator_RowClassName="RentRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Rent" msprop:Generator_ColumnVarNameInTable="columnRent" msprop:Generator_ColumnPropNameInRow="Rent" msprop:Generator_ColumnPropNameInTable="RentColumn" msprop:Generator_UserColumnName="Rent" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Miscellaneous" msprop:Generator_TableClassName="MiscellaneousDataTable" msprop:Generator_TableVarName="tableMiscellaneous" msprop:Generator_TablePropName="Miscellaneous" msprop:Generator_RowDeletingName="MiscellaneousRowDeleting" msprop:Generator_RowChangingName="MiscellaneousRowChanging" msprop:Generator_RowEvHandlerName="MiscellaneousRowChangeEventHandler" msprop:Generator_RowDeletedName="MiscellaneousRowDeleted" msprop:Generator_UserTableName="Miscellaneous" msprop:Generator_RowChangedName="MiscellaneousRowChanged" msprop:Generator_RowEvArgName="MiscellaneousRowChangeEvent" msprop:Generator_RowClassName="MiscellaneousRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Miscellaneous" msprop:Generator_ColumnVarNameInTable="columnMiscellaneous" msprop:Generator_ColumnPropNameInRow="Miscellaneous" msprop:Generator_ColumnPropNameInTable="MiscellaneousColumn" msprop:Generator_UserColumnName="Miscellaneous" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Maintenance" msprop:Generator_TableClassName="MaintenanceDataTable" msprop:Generator_TableVarName="tableMaintenance" msprop:Generator_TablePropName="Maintenance" msprop:Generator_RowDeletingName="MaintenanceRowDeleting" msprop:Generator_RowChangingName="MaintenanceRowChanging" msprop:Generator_RowEvHandlerName="MaintenanceRowChangeEventHandler" msprop:Generator_RowDeletedName="MaintenanceRowDeleted" msprop:Generator_UserTableName="Maintenance" msprop:Generator_RowChangedName="MaintenanceRowChanged" msprop:Generator_RowEvArgName="MaintenanceRowChangeEvent" msprop:Generator_RowClassName="MaintenanceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Maintenance" msprop:Generator_ColumnVarNameInTable="columnMaintenance" msprop:Generator_ColumnPropNameInRow="Maintenance" msprop:Generator_ColumnPropNameInTable="MaintenanceColumn" msprop:Generator_UserColumnName="Maintenance" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

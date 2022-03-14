@@ -1,0 +1,507 @@
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csprojAssemblyReference.cache
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Form1.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Properties.Resources.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CopyComplete
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.Admindasboard.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MaterialSkin.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Adduser.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageuser.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateuser.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Profile.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addcategory.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Managecategory.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updatecategory.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addproduct.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageproduct.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateproduct.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.Waiterdashboard.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Profile.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Viewproduct.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Order.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Manageorder.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Productreport.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Totalreport.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\netstandard.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.AppContext.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Collections.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ComponentModel.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Console.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Data.Common.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Globalization.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.Compression.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.Pipes.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Linq.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Http.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Ping.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Requests.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Security.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.Sockets.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ObjectModel.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Reflection.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Resources.Reader.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Resources.Writer.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Claims.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.Principal.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Security.SecureString.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Text.Encoding.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.Thread.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Threading.Timer.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.XPath.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\MySqlBackup.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Memory.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Memory.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.exe.config
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Backup.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Company.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Order.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageorder.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Priviledge.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.Loadingbar.resources
+C:\Users\Banks\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Salesreportgraph.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\MaterialSkin.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\MySql.Data.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\MySqlBackup.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Buffers.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Memory.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\MySql.Data.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Buffers.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Memory.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.Form1.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.Properties.Resources.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.Admindasboard.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.Loadingbar.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addcategory.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addproduct.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Adduser.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Backup.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Company.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Managecategory.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageorder.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageproduct.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageuser.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Order.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Productreport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Profile.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Salesreportgraph.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Totalreport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updatecategory.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateproduct.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateuser.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CopyComplete
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\netstandard.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.AppContext.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Collections.Concurrent.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Collections.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Collections.NonGeneric.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Collections.Specialized.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ComponentModel.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ComponentModel.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Console.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Data.Common.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.Contracts.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.Debug.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.Process.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.Tools.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Diagnostics.Tracing.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Drawing.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Dynamic.Runtime.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Globalization.Calendars.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Globalization.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Globalization.Extensions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.Compression.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.FileSystem.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.IsolatedStorage.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.Pipes.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Linq.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Linq.Expressions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Linq.Parallel.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Linq.Queryable.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Http.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.NameResolution.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.NetworkInformation.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Ping.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Requests.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Security.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.Sockets.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.WebSockets.Client.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Net.WebSockets.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ObjectModel.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Reflection.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Reflection.Extensions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Reflection.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Resources.Reader.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Resources.ResourceManager.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Resources.Writer.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Extensions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Handles.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.InteropServices.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Numerics.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Claims.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.Principal.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Security.SecureString.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Text.Encoding.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Text.RegularExpressions.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.Overlapped.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.Tasks.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.Thread.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.ThreadPool.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Threading.Timer.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.ValueTuple.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.ReaderWriter.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.XDocument.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.XmlDocument.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.XmlSerializer.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.XPath.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\BouncyCastle.Crypto.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\CircularProgressBar.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Google.Protobuf.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.WinForms.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.Wpf.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\MaterialSkin.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\MySql.Data.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\MySqlBackup.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Buffers.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Memory.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Numerics.Vectors.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Ubiety.Dns.Core.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\WinFormAnimation.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Zstandard.Net.dll
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\CircularProgressBar.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Google.Protobuf.pdb
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\Google.Protobuf.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\K4os.Hash.xxHash.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.pdb
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.WinForms.pdb
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.WinForms.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.Wpf.pdb
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\LiveCharts.Wpf.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\MySql.Data.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\MySql.Data.EntityFramework.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Buffers.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Memory.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Numerics.Vectors.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.csprojAssemblyReference.cache
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.exe.config
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.Form1.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.Properties.Resources.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.Admindasboard.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.Loadingbar.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addcategory.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Addproduct.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Adduser.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Backup.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Company.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Managecategory.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageorder.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageproduct.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Manageuser.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Order.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Priviledge.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Productreport.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Profile.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Salesreportgraph.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Totalreport.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updatecategory.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateproduct.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Updateuser.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.Waiterdashboard.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Manageorder.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Order.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Profile.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.View.waiter.Viewproduct.resources
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.GenerateResource.cache
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CopyComplete
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+I:\C# Applications\cognacManagement v1.0.1 - unreleased\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Employeereport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Eachproductreport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\EnvDTE.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\stdole.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.ProductReportCheck.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.About.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.SalesReports.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.EntireSalesReports.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.PriceAjustment.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.UpdatePrice.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.QuantityAdjustment.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.UpdateQuantity.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.DeleteOrder.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.PriceHistorys.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.QantityHistorys.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.SalesGraphReports.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.ExpensesRecords.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.ManageExpenses.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.UpdateExpenses.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.report.FinancialReports.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.UserPermission.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\ZstdNet.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.Customer.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.ManageCustomer.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.UpdateCustomer.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.CustomerHistory.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.CustomerHistoryProduct.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.license.About.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.license.Registration.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.databse.DatabaseConn.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.databse.NetworkLogin.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\bin\Debug\FoxLearn.License.dll
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.CustomerReport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.ProductSalesReport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.ProductEachSalesReport.resources
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.csprojAssemblyReference.cache
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RdlCompile.cache
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RdlCompile.compiled
+C:\Users\Banks\source\repos\cognacManagement\RestaurantSystem\obj\Debug\RestaurantSystem.View.user.CustomerTemp.resources
